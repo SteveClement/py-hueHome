@@ -1,0 +1,14 @@
+Flask
+Flask-WTF
+Flask-Mail
+Flask-Moment
+Flask-Script
+Flask-Migrate
+Flask-Bootstrap
+Flask-SQLAlchemy
+uWSGI
+Raven
+Blinker
+bleach
+mysqlclient
+pyhue

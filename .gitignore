@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+app/secrets.py
+
+# SQLite databases
+*.sqlite

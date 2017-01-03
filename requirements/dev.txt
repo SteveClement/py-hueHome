@@ -1,0 +1,8 @@
+-r common.txt
+requests
+httpie
+coverage
+selenium
+ForgeryPy
+ipython
+flask-debugtoolbar
